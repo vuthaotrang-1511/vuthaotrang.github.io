@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-oswald: Oswald;
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+  --font-size-17xl: 36px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --primary: #646464;
+  --color-dimgray-100: #7a4a45;
+  --color-maroon: #5a1515;
+  --color-linen: #eae1d4;
+}
